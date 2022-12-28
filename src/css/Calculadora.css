@@ -1,0 +1,21 @@
+.textos{
+  color: rgb(254, 243, 243);
+}
+.cajaTexto{
+    background-color: #040303 !important;
+    color: rgb(190, 183, 183) !important;
+    border-radius: .75rem !important;
+}
+.botonCalular{
+  margin-bottom: 35%;
+  margin-right: 30px;
+  border-radius: .75rem !important;
+  margin-bottom: 50%;
+}
+.botonLimpiar{
+    margin-bottom: 35%;
+    margin-right: 30px;
+    border-radius: .75rem !important;
+    background-color: #040303 !important;
+    margin-bottom: 50%;
+  }
